@@ -10,5 +10,7 @@ Place *clear.pyw* into directory
 <!--start: debug-->
 ## Debug
 Open terminal and run clear.pyw, you should get debug output
-### *Debug messages*
+### *Debug messages :*
+- Directory not found! > Opera-gx not installed
+- Please close operagx! > Opera-gx process is running
 <!--end: debug-->
