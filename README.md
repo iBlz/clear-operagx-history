@@ -6,4 +6,7 @@ Win + R and enter *shell:startup*
 
 Place *clear.pyw* into directory
 <!--end: start-->
-##
+<!--start: debug-->
+## Debug
+Open terminal and run clear.pyw, you should get debug output
+<!--end: debug-->
